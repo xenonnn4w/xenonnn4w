@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xenonnn4w alias anoop
 - 👀 I’m interested in AI, Machine Learning  and Semiconductor workings 
-- 🌱 I’m currently learning Python,Mathlab
+- 🌱 I’m currently learning kotlin,Python,Mathlab
 - 💞️ I’m looking to collaborate on beginner open source projects/issues
 - 📫 How to reach me - kunizukuu@gmail.com
 
