@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xenonnn4w alias anoop
+- 👋 Hi, I’m @xenonnn4w alias anoo
 - 👀 I’m interested in AI, Machine Learning  and Semiconductor workings 
 - 🌱 I’m currently learning kotlin,Python,Mathlab
 - 💞️ I’m looking to collaborate on beginner open source projects/issues
