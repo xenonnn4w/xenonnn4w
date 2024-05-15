@@ -1,6 +1,6 @@
 ![bongo-cat-typing](https://github.com/xenonnn4w/xenonnn4w/assets/139516059/9be42199-9799-44f2-9438-5d4f2d4a107e)
 
-- 👋Hi, I’m @xenonnn4w alias anoo
+- 👋Hi, I’m @xenonnn4w alias anoop
 - 👀 I’m interested in AI, Machine Learning  and Semiconductor workings 
 - 🌱 I’m currently learning kotlin,Python,Mathlab
 - 💞️ I’m looking to collaborate on beginner open source projects/issues
