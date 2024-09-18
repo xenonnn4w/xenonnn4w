@@ -1,12 +1,14 @@
-![bongo-cat-typing](https://github.com/xenonnn4w/xenonnn4w/assets/139516059/9be42199-9799-44f2-9438-5d4f2d4a107e)
+<h1 align="center">Hi 👋, I'm Aya</h1>
+<p align="center">
+   <img src="https://github.com/snowieeeee/snowieeeee/blob/main/c490ca0a25bc300089e784e635ff465f.gif" height="250" width="600"/>
+<p>
+  
+## About me
 
-- 👋Hi, I’m @xenonnn4w alias anoop
-- 👀 I’m interested in AI, Machine Learning  and Semiconductor workings 
-- 🌱 I’m currently learning kotlin,Python,Mathlab
-- 💞️ I’m looking to collaborate on beginner open source projects/issues
-- 📫 How to reach me - xenonnn4w@gmail.com
+<picture> <img align="right" src="https://github.com/snowieeeee/snowieeeee/blob/main/3qh2.gif" width = 175px></picture>
 
-<!---
-xenonnn4w/xenonnn4w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 Electronics and Instrumentation Student
+- 💻 Passionate about **Semiconductor Working's** and **Data Science**
+- ✨ Enthusiastic about exploring and applying new technologies to solve real-life problems
+- 📊 Committed to making data-driven decisions
+- 🤝 Open for collaborations
