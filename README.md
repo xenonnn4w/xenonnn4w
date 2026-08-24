@@ -8,7 +8,7 @@
 <picture> <img align="right" src="https://github.com/xenonnn4w/xenonnn4w/blob/main/3qh2.gif" width = 175px></picture>
 
 - 🎓 Electronics and Instrumentation Student
-- 💻 Passionate about **Semiconductor Working's** and **Data Science**
+- 💻 Passionate about **Semiconductor Working's** and **LLM Internals**
 - ✨ Enthusiastic about exploring and applying new technologies to solve real-life problems
 - 📊 Committed to making data-driven decisions
 - 🤝 Open for collaborations
